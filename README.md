@@ -43,3 +43,10 @@ Al ejecutar el sistema, podrás realizar las siguientes acciones:
 - **Realizar un préstamo**: Permite que un usuario tome prestado un libro si hay copias disponibles.
 - **Registrar devolución**: Ajusta la cantidad de copias al devolver un libro.
 
+## Diagrama entidad relacion (DER) de la base de datos utilizada
+
+![CBAEA62E-F6AD-4E01-B8F0-97B2E99CE5B2_4_5005_c](https://github.com/user-attachments/assets/18760046-62c4-4bf4-af78-4735b4edfc9e)
+
+
+
+
