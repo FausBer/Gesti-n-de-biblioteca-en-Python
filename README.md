@@ -29,5 +29,17 @@ El sistema permite realizar operaciones básicas de gestión de una biblioteca m
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/biblioteca.git
-   cd biblioteca
+   git clone https://github.com/FausBer/Gestion-de-biblioteca-en-Python.git
+   cd Gestion-de-biblioteca-en-Python
+
+## Ejemplo de Uso
+
+Al ejecutar el sistema, podrás realizar las siguientes acciones:
+
+- **Agregar un libro**: Registra un nuevo libro o incrementa el número de copias de un libro existente.
+- **Eliminar un libro**: Disminuye la cantidad de copias o elimina completamente un libro.
+- **Registrar usuario**: Añade un usuario al sistema.
+- **Eliminar usuario**: Elimina a un usuario de la base de datos mediante su email.
+- **Realizar un préstamo**: Permite que un usuario tome prestado un libro si hay copias disponibles.
+- **Registrar devolución**: Ajusta la cantidad de copias al devolver un libro.
+
